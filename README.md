@@ -2,7 +2,7 @@
 This repository hosts all classroom, homework, and project based code for the Udacity Data and Visual Analytics course
 
 The following is a list of references the student might find useful for this course:
-
+ 
 swirl Interactive mini-courses in R (great for beginners):
   http://swirlstats.com/students.html
 Listing of commands for R:
